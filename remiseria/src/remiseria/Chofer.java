@@ -16,5 +16,5 @@ public class Chofer {
     String vehiculo;
     int NroChofer;
     int Puntaje;
-    
+    int Nintendo;
 }
